@@ -1,0 +1,13 @@
+.latest {
+    font-weight: 100;
+    font-size: 40px;
+    letter-spacing: -0.714286px;
+    color: #2D314D;
+    margin-bottom: 40px;
+}
+.money {
+    width:500px;
+    height: 350px;
+    margin-bottom: 25px;
+    border-radius: 5px 5px 0px 0px;
+}

@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+.container {
+    max-width: 1202px;
+    margin: 0 auto;
+    display: flex;
+}
+.headings {
+    display: inline-block;
+
+}
+.logo {
+    margin-right: 15px;
+}
+.notitanic{
+    margin-right: 219px;
+}
+.lists {
+    display: inline-block;
+    list-style: none;
+    margin-right: 145px;
+}

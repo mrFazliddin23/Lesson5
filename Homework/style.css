@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.general h4 {
+    font-weight: 600;
+    font-size: 20px;
+    color: #000000;
+    margin-bottom: 13px;
+}
+
+.box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 706px;
+    margin-top: 10px;
+}
+
+h5 {
+    margin-top: 0;
+    font-weight: 550;
+    font-size: 17px;
+    color: #202020;
+}
+
+.text {
+    margin-left: 19px;
+}
+
+.content, .info {
+    font-weight: 400;
+    font-size: 15px;
+    color: #434343;
+}
+
+.data {
+    font-weight: 400;
+    font-size: 14px;
+    color: #7688A4;
+}
+
+button {
+    border: none;
+    width: 211px;
+    height: 42px;
+    background-color: #295093;
+    color: #fff;
+    font-weight: 500;
+    font-size: 17px;
+    margin-left: 414px;
+    border-radius: 5px;
+}
+
+/* o'ng tarafdagi qismi */
+
+.ucell {
+    width: 386px;
+    height: 542px;
+    margin: top 46px;
+    margin: left 20px;
+    background: #F6F6F9;
+    border-radius: 5px;
+}
+
+h3 {
+    font-weight: 560;
+    font-size: 18px;
+    color: #202020;
+    margin-top: 18px;
+}
+
+.ucellNews {
+    font-weight: 560;
+    font-size: 18px;
+    color: #202020;
+    margin-left: 20px;
+    margin-top: 18px;
+}
+
+.time {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #7688A4;
+}
